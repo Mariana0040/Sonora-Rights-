@@ -1,0 +1,6 @@
+{
+  "name": "Sonora Rights - Gestão de Obras & Direitos Musicais",
+  "description": "Plataforma centralizada para artistas independentes gerenciarem obras musicais, documentação de autoria, auditoria de direitos e conciliação de royalties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
